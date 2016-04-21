@@ -11,5 +11,8 @@
     "dist/css/slider-pro.css",
     "dist/js/jquery.sliderPro.js"
   ],
+  "ignore": [
+    "README.md"
+  ],
   "license": "MIT"
 }
