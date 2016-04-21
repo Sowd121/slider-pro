@@ -11,15 +11,5 @@
     "dist/css/slider-pro.css",
     "dist/js/jquery.sliderPro.js"
   ],
-  "ignore": [
-    "docs",
-    "examples",
-    "libs",
-    ".gitignore",
-    "bower.json",
-    "Gruntfile.js",
-    "package.json",
-    "README.md"
-  ],
   "license": "MIT"
 }
